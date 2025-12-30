@@ -11,7 +11,7 @@ npm install
 npm run dev
 
 
-🚀 Features
+### 🚀 Features
 
 ➕ Add new tasks
 ✅ Mark tasks as completed
@@ -22,7 +22,7 @@ npm run dev
 
 
 
-🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 - Frontend: React.js ⚛️
 - Build Tool: Vite ⚡
