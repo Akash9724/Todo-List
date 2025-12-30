@@ -7,8 +7,8 @@ The app uses Local Storage to persist tasks, so your to-dos stay saved even afte
 - npm
 
 ### Setup
-npm install
-npm run dev
+- npm install
+- npm run dev
 
 
 ### 🚀 Features
