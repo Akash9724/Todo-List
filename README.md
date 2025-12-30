@@ -13,12 +13,12 @@ npm run dev
 
 ### 🚀 Features
 
-➕ Add new tasks
-✅ Mark tasks as completed
-❌ Delete tasks
-💾 Persistent data using Local Storage
-⚡ Fast development with Vite
-🎨 Modern UI styled using Tailwind CSS
+- ➕ Add new tasks
+- ✅ Mark tasks as completed
+- ❌ Delete tasks
+- 💾 Persistent data using Local Storage
+- ⚡ Fast development with Vite
+- 🎨 Modern UI styled using Tailwind CSS
 
 
 
